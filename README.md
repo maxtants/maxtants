@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxtants
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning java development
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: smt@bk.ru
 
