@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning java development
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me: 229814@gmail.com
+- 📫 How to reach me: smt@bk.ru
 
 <!---
 maxtants/maxtants is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
